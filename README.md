@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm @Robert Januszczyc</h1>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<!--
-**RobertJanuszczyc/RobertJanuszczyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I'm interested in object-oriented programming in Java
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **MySQL, Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 ou can reach me through an e-mail: **robertjanuszczyc2@gmail.com**
+
+
+<p align="left">
+</p>
+
+
