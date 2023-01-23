@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MySQL, Java**
 
-- 📫 ou can reach me through an e-mail: **robertjanuszczyc2@gmail.com**
+- 📫 You can reach me through an e-mail: **robertjanuszczyc2@gmail.com**
 
 
 <p align="left">
